@@ -1,1 +1,3 @@
 # SPO-Volunteer-task
+                                                    I have used Javascript for performing the specified tasks in the User Interface that I have made. The reason for this choice were functions like addEventListener(), that clearly fall under the domain of required work.
+                                                    I initially added event listeners to the checkboxes, and checked the corresponding checkboxes in the grid (found them by using their ID or Name), if they were selected, and vice versa. Similarly, I added an onClick log() function on the buttons, and performed the required tasks.
